@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **eraygoker3535@gmail.com**
 
+- <div align="center"> <img src="https://wakatime.com/@ae9d38d9-7c78-42d4-90b9-c9e65c60f24f"> </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eray goker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eray goker" height="30" width="40" /></a>
