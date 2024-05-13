@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **eraygoker3535@gmail.com**
 
-- <div align="center"> <img src="hhttps://wakatime.com/badge/user/ae9d38d9-7c78-42d4-90b9-c9e65c60f24f.svg"> </div>
+- <div align="center"> <img src="https://wakatime.com/badge/user/ae9d38d9-7c78-42d4-90b9-c9e65c60f24f.svg"> </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
